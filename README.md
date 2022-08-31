@@ -11,3 +11,6 @@
 !['CSS3'](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
 
 Follow me
+
+[!['Telegram'](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/dub320)
+[!['Linkedin'](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bogdan-boldov-306305208/)
