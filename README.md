@@ -1,16 +1,13 @@
-### Hi there 👋
+## My name is Bogdan. I'm a Frontend developer
 
-<!--
-**dub404/dub404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and frameworks
 
-Here are some ideas to get you started:
+!['Angular'](https://img.shields.io/badge/Angular-090909?style=for-the-badge&logo=Angular)
+!['React'](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
+!['Redux'](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
+!['JavaScript'](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
+!['TypeScript'](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+!['HTML5'](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
+!['CSS3'](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me
