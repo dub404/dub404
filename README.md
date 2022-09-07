@@ -6,6 +6,8 @@
 !['Redux'](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
 !['JavaScript'](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 !['TypeScript'](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+!['Jest'](https://img.shields.io/badge/Jest-090909?style=for-the-badge&logo=Jest)
+!['Testing-Library'](https://img.shields.io/badge/TL-090909?style=for-the-badge&logo=Testing-Library)
 !['HTML5'](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
 !['CSS3'](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
 
