@@ -11,7 +11,7 @@
 !['HTML5'](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
 !['CSS3'](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
 
-[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dub404&count_private=true&shows_icons=true)](https://github.com/dub404/github-readme-stats)
+[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dub404&count_private=true&show_icons=true)](https://github.com/dub404/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dub404)](https://github.com/anuraghazra/github-readme-stats)
 
