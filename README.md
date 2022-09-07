@@ -13,6 +13,8 @@
 
 [![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dub404&count_private=true&shows_icons=true)](https://github.com/dub404/github-readme-stats)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dub404)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Follow me
 [!['Telegram'](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/dub320)
 [!['Linkedin'](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bogdan-boldov-306305208/)
