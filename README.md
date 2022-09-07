@@ -11,6 +11,8 @@
 !['HTML5'](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
 !['CSS3'](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
 
+[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dub404&count_private=true&shows_icons=true)](https://github.com/dub404/github-readme-stats)
+
 ### Follow me
 [!['Telegram'](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/dub320)
 [!['Linkedin'](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bogdan-boldov-306305208/)
